@@ -1,0 +1,12 @@
+s=3
+print('the value of s is',s)
+b=''
+print(b)
+b='7.8'
+g=float(b)
+print(int(g))
+d='dell'
+print('one of the laptop brand is',d)
+print(''+d)
+print('one of the laptop brand is '+d)
+print('one of the laptop brand is'+' '+d)
